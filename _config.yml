@@ -101,7 +101,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 jekyll-archives:
-  enabled: []
+  enabled: [all]
   layout: archive
   permalinks:
     year: '/:year/'
