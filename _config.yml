@@ -109,3 +109,5 @@ friends: [
           href: "https://pytorch.org/get-started/locally/"
     }
 ]
+
+theme: jekyll-theme-cayman
