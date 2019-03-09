@@ -107,7 +107,11 @@ friends: [
     # },{
           title: "pytorch",
           href: "https://pytorch.org/get-started/locally/"
+    },{
+          title: "Yang Tianbiao",
+          href: "https://Tianbiao-Yang/github.io"
     }
+
 ]
 
 theme: jekyll-theme-cayman
